@@ -1,0 +1,41 @@
+
+{
+	"buildFiles" : 
+	[
+		"C:/Users/gayr/Desktop/NIR0306/0322/serialport_2019.01.13/serialport_2019.01.13/serialport_2019.01.13/app/CMakeLists.txt"
+	],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"C:\\Users\\gayr\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\gayr\\Desktop\\NIR0306\\0322\\serialport_2019.01.13\\serialport_2019.01.13\\serialport_2019.01.13\\app\\.externalNativeBuild\\cmake\\release\\x86 --target clean"
+	],
+	"libraries" : 
+	{
+		"serial_port-Release-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "serial_port",
+			"buildCommand" : "C:\\Users\\gayr\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\gayr\\Desktop\\NIR0306\\0322\\serialport_2019.01.13\\serialport_2019.01.13\\serialport_2019.01.13\\app\\.externalNativeBuild\\cmake\\release\\x86 --target serial_port",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=i686-none-linux-android16 --gcc-toolchain=C:/Users/gayr/AppData/Local/Android/Sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/gayr/AppData/Local/Android/Sdk/ndk-bundle/sysroot -Dserial_port_EXPORTS  -isystem C:/Users/gayr/AppData/Local/Android/Sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC      -c ",
+					"src" : "C:/Users/gayr/Desktop/NIR0306/0322/serialport_2019.01.13/serialport_2019.01.13/serialport_2019.01.13/app/src/main/jni/SerialPort.c",
+					"workingDirectory" : "C:/Users/gayr/Desktop/NIR0306/0322/serialport_2019.01.13/serialport_2019.01.13/serialport_2019.01.13/app/.externalNativeBuild/cmake/release/x86"
+				}
+			],
+			"output" : "C:/Users/gayr/Desktop/NIR0306/0322/serialport_2019.01.13/serialport_2019.01.13/serialport_2019.01.13/app/build/intermediates/cmake/release/obj/x86/libserial_port.so",
+			"toolchain" : "767274955"
+		}
+	},
+	"toolchains" : 
+	{
+		"767274955" : 
+		{
+			"cCompilerExecutable" : "C:/Users/gayr/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "C:/Users/gayr/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

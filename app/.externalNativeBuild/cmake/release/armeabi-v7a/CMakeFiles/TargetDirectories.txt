@@ -1,0 +1,3 @@
+C:/Users/gayr/Desktop/NIR0306/0322/serialport_2019.01.13/serialport_2019.01.13/serialport_2019.01.13/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+C:/Users/gayr/Desktop/NIR0306/0322/serialport_2019.01.13/serialport_2019.01.13/serialport_2019.01.13/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/serial_port.dir
+C:/Users/gayr/Desktop/NIR0306/0322/serialport_2019.01.13/serialport_2019.01.13/serialport_2019.01.13/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/edit_cache.dir

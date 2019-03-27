@@ -1,0 +1,14 @@
+Executable : C:\Users\gayr\AppData\Local\Android\Sdk\cmake\3.6.4111459\bin\cmake.exe
+arguments : 
+-HC:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app
+-BC:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\.externalNativeBuild\cmake\release\armeabi-v7a
+-DANDROID_ABI=armeabi-v7a
+-DANDROID_PLATFORM=android-16
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\build\intermediates\cmake\release\obj\armeabi-v7a
+-DCMAKE_BUILD_TYPE=Release
+-DANDROID_NDK=C:\Users\gayr\AppData\Local\Android\Sdk\ndk-bundle
+-DCMAKE_TOOLCHAIN_FILE=C:\Users\gayr\AppData\Local\Android\Sdk\ndk-bundle\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=C:\Users\gayr\AppData\Local\Android\Sdk\cmake\3.6.4111459\bin\ninja.exe
+-GAndroid Gradle - Ninja
+jvmArgs : 
+

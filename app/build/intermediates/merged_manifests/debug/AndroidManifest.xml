@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="android_serialport_api.sample"
+    android:versionCode="3"
+    android:versionName="1.2" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="28" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+    <application
+        android:name="android_serialport_api.sample.Application"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@drawable/icon"
+        android:label="UPRtek Drug App"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+        <activity android:name="android_serialport_api.sample.SampleActivity" />
+
+        <service android:name="android_serialport_api.RunningService" />
+
+        <receiver android:name="android_serialport_api.AlarmReceiver" />
+
+        <activity android:name="android_serialport_api.Login.Login_Refresh" />
+        <activity android:name="android_serialport_api.Search.ShowLocalSpectrum" />
+        <activity android:name="android_serialport_api.Search.SearchLocal" />
+        <activity android:name="android_serialport_api.Search.SearchMain" />
+        <activity android:name="android_serialport_api.sample.Detection_Finish" />
+        <activity android:name="android_serialport_api.Search.SearchSample" />
+        <activity
+            android:name="android_serialport_api.sample.MainMenu"
+            android:label="UPRtek Drug App" />
+        <activity android:name="android_serialport_api.sample.SerialPortPreferences" />
+        <activity android:name="android_serialport_api.sample.ConsoleActivity" />
+        <activity android:name="android_serialport_api.sample.LoopbackActivity" />
+        <activity android:name="android_serialport_api.sample.Sending01010101Activity" />
+        <activity android:name="android_serialport_api.Search.ShowSampleSpectrum" />
+        <activity android:name="android_serialport_api.Login.Login" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
