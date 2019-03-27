@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Fri Mar 22 20:59:07 CST 2019
+#Wed Mar 27 14:45:06 CST 2019
 1.base=C\:\\Users\\gayr\\Desktop\\NIR0306\\0322\\serialport_2019.01.13\\serialport_2019.01.13\\serialport_2019.01.13\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
 2.path=classes.dex
 0.baseType=DIRECTORY
