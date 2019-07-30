@@ -431,6 +431,10 @@ attr ratingBarStyleIndicator
 attr ratingBarStyleSmall
 attr reverseLayout
 attr rippleColor
+attr sb_handlerColor
+attr sb_horizontal
+attr sb_indicatorColor
+attr sb_indicatorTextColor
 attr scrimAnimationDuration
 attr scrimBackground
 attr scrimVisibleHeightTrigger
@@ -691,6 +695,7 @@ color mtrl_textinput_filled_box_default_background_color
 color mtrl_textinput_hovered_box_stroke_color
 color notification_action_color_filter
 color notification_icon_bg_color
+color notification_material_background_media_default_color
 color primary_dark_material_dark
 color primary_dark_material_light
 color primary_material_dark
@@ -920,6 +925,10 @@ dimen notification_small_icon_size_as_large
 dimen notification_subtext_size
 dimen notification_top_pad
 dimen notification_top_pad_large_text
+dimen subtitle_corner_radius
+dimen subtitle_outline_width
+dimen subtitle_shadow_offset
+dimen subtitle_shadow_radius
 dimen tooltip_corner_radius
 dimen tooltip_horizontal_padding
 dimen tooltip_margin
@@ -1026,7 +1035,13 @@ drawable btn_detection_300p
 drawable btn_detection_complete
 drawable btn_locked
 drawable btn_magnifier
+drawable btn_regulate
+drawable btn_sampling
 drawable btn_unlock
+drawable default_scroll_handle_bottom
+drawable default_scroll_handle_left
+drawable default_scroll_handle_right
+drawable default_scroll_handle_top
 drawable design_bottom_navigation_item_background
 drawable design_fab_background
 drawable design_ic_visibility
@@ -1034,6 +1049,7 @@ drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
 drawable fade_red
+drawable giflading
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
@@ -1066,9 +1082,11 @@ drawable tooltip_frame_dark
 drawable tooltip_frame_light
 drawable unnamed
 id ALT
+id ButtonAppOperate
 id ButtonConsole
 id ButtonSearch
 id ButtonSetup
+id ButtonStandard
 id CTRL
 id FUNCTION
 id LinearLayoutOutgoing
@@ -1086,6 +1104,7 @@ id TextViewIncoming
 id TextViewIncomingValue
 id TextViewOutgoing
 id TextViewOutgoingValue
+id action0
 id action_bar
 id action_bar_activity_content
 id action_bar_container
@@ -1117,8 +1136,11 @@ id blocking
 id bottom
 id btn_detection_check
 id button
+id buttonCancleSampling
 id buttonPanel
 id buttonSample
+id buttonSamplingClick
+id cancel_action
 id center
 id center_horizontal
 id center_vertical
@@ -1145,6 +1167,7 @@ id design_navigation_view
 id dimensions
 id direct
 id disableHome
+id editText
 id editText_SampleAddress
 id editText_SampleChinese
 id editText_SampleCommonName
@@ -1152,6 +1175,7 @@ id editText_SampleEnglish
 id editText_SamplePurity
 id edit_query
 id end
+id end_padder
 id enterAlways
 id enterAlwaysCollapsed
 id exitUntilCollapsed
@@ -1191,6 +1215,7 @@ id image_Main
 id image_SearchMain
 id image_batteryDetectionFinish
 id image_sampleBattery
+id image_sampleFinishBattery
 id image_search
 id image_searchlocal
 id img
@@ -1212,6 +1237,7 @@ id listMode
 id list_item
 id mainBtn_Logout
 id masked
+id media_actions
 id message
 id middle
 id mini
@@ -1232,6 +1258,7 @@ id parallax
 id parent
 id parentPanel
 id parent_matrix
+id pdfView
 id percent
 id pin
 id progress_circular
@@ -1240,6 +1267,7 @@ id radio
 id right
 id right_icon
 id right_side
+id sampleFinishChart
 id sample_ListView
 id save_image_matrix
 id save_non_transition_alpha
@@ -1282,6 +1310,7 @@ id src_in
 id src_over
 id standard
 id start
+id status_bar_latest_event_content
 id stretch
 id submenuarrow
 id submit_area
@@ -1299,6 +1328,7 @@ id textView1
 id textView2
 id textView3
 id textView4
+id textView5
 id textViewCorrupted
 id textViewCorruptedValue
 id textViewLost
@@ -1342,6 +1372,8 @@ id txtView_loginRefresh
 id txtView_search
 id txtView_searchlocal
 id txtView_txtSampleBattery
+id txtView_txtSampleFinishBattery
+id txt_sampleFinish
 id uniform
 id unlabeled
 id up
@@ -1352,6 +1384,7 @@ id view3
 id view4
 id view5
 id view6
+id view7
 id view_SampleLock
 id view_SampleLockLock
 id view_offset_helper
@@ -1406,12 +1439,16 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_app_operate_pdf
 layout activity_detection__finish
+layout activity_help_main
 layout activity_login
 layout activity_login__refresh
 layout activity_sample
+layout activity_sample_finish
 layout activity_search
 layout activity_search_local
+layout activity_standard_sampling_pdf
 layout console
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -1433,8 +1470,17 @@ layout mtrl_layout_snackbar
 layout mtrl_layout_snackbar_include
 layout notification_action
 layout notification_action_tombstone
+layout notification_media_action
+layout notification_media_cancel_action
+layout notification_template_big_media
+layout notification_template_big_media_custom
+layout notification_template_big_media_narrow
+layout notification_template_big_media_narrow_custom
 layout notification_template_custom_big
 layout notification_template_icon_group
+layout notification_template_lines_media
+layout notification_template_media
+layout notification_template_media_custom
 layout notification_template_part_chronometer
 layout notification_template_part_time
 layout popupwindow_local
@@ -1795,9 +1841,14 @@ style TextAppearance_AppCompat_Widget_Switch
 style TextAppearance_AppCompat_Widget_TextView_SpinnerItem
 style TextAppearance_Compat_Notification
 style TextAppearance_Compat_Notification_Info
+style TextAppearance_Compat_Notification_Info_Media
 style TextAppearance_Compat_Notification_Line2
+style TextAppearance_Compat_Notification_Line2_Media
+style TextAppearance_Compat_Notification_Media
 style TextAppearance_Compat_Notification_Time
+style TextAppearance_Compat_Notification_Time_Media
 style TextAppearance_Compat_Notification_Title
+style TextAppearance_Compat_Notification_Title_Media
 style TextAppearance_Design_CollapsingToolbar_Expanded
 style TextAppearance_Design_Counter
 style TextAppearance_Design_Counter_Overflow
@@ -2074,6 +2125,7 @@ styleable PopupWindowBackgroundState state_above_anchor
 styleable RecycleListView paddingBottomNoButtons paddingTopNoTitle
 styleable RecyclerView android_orientation android_descendantFocusability fastScrollEnabled fastScrollHorizontalThumbDrawable fastScrollHorizontalTrackDrawable fastScrollVerticalThumbDrawable fastScrollVerticalTrackDrawable layoutManager reverseLayout spanCount stackFromEnd
 styleable ScrimInsetsFrameLayout insetForeground
+styleable ScrollBar sb_handlerColor sb_horizontal sb_indicatorColor sb_indicatorTextColor
 styleable ScrollingViewBehavior_Layout behavior_overlapTop
 styleable SearchView android_focusable android_maxWidth android_inputType android_imeOptions closeIcon commitIcon defaultQueryHint goIcon iconifiedByDefault layout queryBackground queryHint searchHintIcon searchIcon submitBackground suggestionRowLayout voiceIcon
 styleable Snackbar snackbarButtonStyle snackbarStyle

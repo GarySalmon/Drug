@@ -21,7 +21,12 @@
         android:debuggable="true"
         android:icon="@drawable/icon"
         android:label="UPRtek Drug App"
+        android:testOnly="true"
         android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+        <activity android:name="android_serialport_api.Help.HelpMain" />
+        <activity android:name="android_serialport_api.Help.AppOperatePDF" />
+        <activity android:name="android_serialport_api.Help.StandardSamplingPDF" />
+        <activity android:name="android_serialport_api.sample.SampleFinishActivity" />
         <activity android:name="android_serialport_api.sample.SampleActivity" />
 
         <service android:name="android_serialport_api.RunningService" />

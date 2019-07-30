@@ -1,269 +1,297 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:2:1-48:12
-INJECTED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:2:1-48:12
-INJECTED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:2:1-48:12
-INJECTED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:2:1-48:12
-MERGED from [com.google.android.material:material:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\aa6ef79141d637cf8a58ed155aebd021\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.2.aar\616ba9cabbae72ef8ec19f1bb13299b0\AndroidManifest.xml:17:1-22:12
-MERGED from [:MPChartLib] C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\MPChartLib\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-20:12
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\1bc47209fa5a00bad8bf6de2488b2403\AndroidManifest.xml:2:1-11:12
-MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.8.0.aar\2e30ca0681f519963891d7ec95ba478f\AndroidManifest.xml:2:1-12:12
-MERGED from [com.github.hotchemi:permissionsdispatcher:3.1.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\jetified-permissionsdispatcher-3.1.0.aar\37f2af7895ee1a99b0efdb59a6dc604f\AndroidManifest.xml:2:1-10:12
-MERGED from [com.daimajia.numberprogressbar:library:1.4] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\library-1.4.aar\a7adbc8a3b981a7329825cb31505f46f\AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\326fd424af84841314b2070dcc2f9a86\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\cdeb8a94222ce93782b19737e3b12c19\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\194d0d87a9348ef854d865d72748a936\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\786801b7d4365fc0e7a9eff6c89900ff\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\3457a6ce280d49e0d7989dd2965b2a50\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\e7bee70a5da9f1401c87ac280d4da2ff\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.transition:transition:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\58aa92447cff21131410d306f6509ffa\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\71ad1001d25364249616dda103e15904\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\a1d13d3defe67e41df1cb8f9db78aef5\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\72281af6a4de3424208868d31c51acb3\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\8a969cad53e00d2c6c93df1069ebeb5c\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\cd5a344f5ba70f9c049f9963e827b47f\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\f331aa77c8ce9f788dc2ab7e50bef64c\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\a8367dae9489cee8dfd04311575fb786\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\1ee05918786e0e7be83e3ce5869cba16\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.0.1] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\e8060ebdb6f33a1a3328542fbe93ed00\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\acc469cb09f140a0be00f46f7caf87e6\AndroidManifest.xml:17:1-25:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\388d09dc1aebdddcecf229fd571a3801\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\655b65645f49b296be9587da9d2ff02b\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\8e8dfd20bb065380319f445aa2f42a05\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\4a4ef278db506162ed5dc89bdb0c1624\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\a680128170188254d60310d262bd85de\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\661238e83728b7cddcc4f5c3a431baff\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\f290c70911f69e173139b5d2ae9d3c2b\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\6f8a01e044fc2ad664a19f91564b76f7\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\47c0f4bfb8238f7d68dbd0e1958110ea\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\1cc5bd76cbdc04ea5692015ab8b37ab2\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\1216842deab317a126f038da77a66398\AndroidManifest.xml:17:1-22:12
-MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\jetified-gifdecoder-4.8.0.aar\65f2e7c2d25e65cd1c3049a7a599668a\AndroidManifest.xml:2:1-11:12
-INJECTED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:2:1-48:12
-INJECTED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:2:1-48:12
-INJECTED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:2:1-48:12
+ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:2:1-52:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\d1af8a967e4a52f7ede8bc8534ce35e1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.2.aar\b2ab31ebfee1999e7696aafff3c1e85e\AndroidManifest.xml:17:1-22:12
+MERGED from [:MPChartLib] D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\MPChartLib\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-20:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\8dc9b79ec8b86e97f01449690cd03cd5\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.8.0.aar\549d087eb8f4a8491a5051f6159fa859\AndroidManifest.xml:2:1-12:12
+MERGED from [com.daimajia.numberprogressbar:library:1.4] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\library-1.4.aar\be82078a42647ddf310887c3e2e2dc3a\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.hotchemi:permissionsdispatcher:3.1.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\jetified-permissionsdispatcher-3.1.0.aar\56b5a4bf0e434730ef72a0fe0d179596\AndroidManifest.xml:2:1-10:12
+MERGED from [com.github.barteksc:android-pdf-viewer:2.8.2] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\jetified-android-pdf-viewer-2.8.2.aar\5e26418bcd38297df9c90992fd3726ed\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.barteksc:pdfium-android:1.7.1] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\jetified-pdfium-android-1.7.1.aar\8d26b74a4efae8c102b375f727155e94\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\0773c5cddf0c5ef38adca64ea419d29f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\18a1fe0ec578547b5027fb4876b1e9a5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\f99fe210aa5102a8e8b13335707bb330\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\d1a2b94072f9e4904a4bfa2a71e17b3f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\a24d6efe80f24dc4c68a5fc672c306bb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\d10bc245f82b1dfda053ea859352428d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\455eea5022386c3aaebeb88af89c449f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\215e549516231496a63069029f31b799\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\ff4f6ea6f0f93811b32df69aab2c2cce\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\2d9dd2eca793add3b9a9dd03505ba71a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\90d61cb5c5a0fb1b4599645db287fa72\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\cd6dbfd806c0179fa33d0493c1c7cc2b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\ac24253291899dcc6d032983821e2008\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\d96478440bf1870b1daa6937aa08e982\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\90cc701acbdcb50318f37d9ebb46a54c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\d404450442291ef705ae74560551e539\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\026db3eb296685d7218281f008a0592a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\eba93514184879a1e9f2a6ffb5c7477a\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\be87881899e7776a33921577a0443266\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\e1d8235b0341c00f8eedd91e1560c725\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\ac4e1efaf57a55cb51b9505fe38ffa4f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\91d778a805b0f20a3021b640a9cf8ba1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\8de084d10a4be4c51467ddee1fec4617\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\bf49ea25edb046acef90d5926a408e97\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\856c2cf1053da1016410e9d13f6d987f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\1735914a5f170d4e939d957ad6862992\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\2aa75fa97036a4f54e0b143bf75a5616\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\23f59ec2d7b31b808f4a6c1e32628f66\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\81e3bcbd1d37b89078be2e3fdf5e7a33\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\64d43cca0fc2905cac25d0bbff03ecb8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\jetified-gifdecoder-4.8.0.aar\3a4ce96337c0190825e627f105c5add5\AndroidManifest.xml:2:1-11:12
+INJECTED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:2:1-52:12
 	package
-		ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:3:5-44
-		INJECTED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml
+		ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml
+		INJECTED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:5:5-30
-		INJECTED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml
+		ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml
+		INJECTED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:4:5-28
-		INJECTED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml
+		ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml
+		INJECTED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:7:5-67
+ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:7:5-67
 	android:name
-		ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:7:22-64
+		ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:7:22-64
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:8:5-81
+ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:8:5-81
 	android:name
-		ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:8:22-78
+		ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:8:22-78
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:9:5-80
+ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:9:5-80
 	android:name
-		ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:9:22-77
+		ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:9:22-77
 uses-permission#android.permission.STORAGE
-ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:10:5-66
+ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:10:5-66
 	android:name
-		ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:10:22-63
+		ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:10:22-63
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:11:5-79
+ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:11:5-79
 	android:name
-		ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:11:22-76
+		ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:11:22-76
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:12:5-81
+ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:12:5-81
 	android:name
-		ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:12:22-78
+		ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:12:22-78
 application
-ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:14:5-46:19
-MERGED from [com.google.android.material:material:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\aa6ef79141d637cf8a58ed155aebd021\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\aa6ef79141d637cf8a58ed155aebd021\AndroidManifest.xml:22:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\1bc47209fa5a00bad8bf6de2488b2403\AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\1bc47209fa5a00bad8bf6de2488b2403\AndroidManifest.xml:9:5-20
-MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.8.0.aar\2e30ca0681f519963891d7ec95ba478f\AndroidManifest.xml:10:5-20
-MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.8.0.aar\2e30ca0681f519963891d7ec95ba478f\AndroidManifest.xml:10:5-20
-MERGED from [androidx.core:core:1.0.1] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\e8060ebdb6f33a1a3328542fbe93ed00\AndroidManifest.xml:22:5-89
-MERGED from [androidx.core:core:1.0.1] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\e8060ebdb6f33a1a3328542fbe93ed00\AndroidManifest.xml:22:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\acc469cb09f140a0be00f46f7caf87e6\AndroidManifest.xml:22:5-23:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\acc469cb09f140a0be00f46f7caf87e6\AndroidManifest.xml:22:5-23:19
-MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\jetified-gifdecoder-4.8.0.aar\65f2e7c2d25e65cd1c3049a7a599668a\AndroidManifest.xml:9:5-20
-MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\jetified-gifdecoder-4.8.0.aar\65f2e7c2d25e65cd1c3049a7a599668a\AndroidManifest.xml:9:5-20
+ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:14:5-50:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\d1af8a967e4a52f7ede8bc8534ce35e1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\d1af8a967e4a52f7ede8bc8534ce35e1\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\8dc9b79ec8b86e97f01449690cd03cd5\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\8dc9b79ec8b86e97f01449690cd03cd5\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.8.0.aar\549d087eb8f4a8491a5051f6159fa859\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.8.0.aar\549d087eb8f4a8491a5051f6159fa859\AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\eba93514184879a1e9f2a6ffb5c7477a\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\eba93514184879a1e9f2a6ffb5c7477a\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\be87881899e7776a33921577a0443266\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\be87881899e7776a33921577a0443266\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\jetified-gifdecoder-4.8.0.aar\3a4ce96337c0190825e627f105c5add5\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\jetified-gifdecoder-4.8.0.aar\3a4ce96337c0190825e627f105c5add5\AndroidManifest.xml:9:5-20
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.0.1] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\e8060ebdb6f33a1a3328542fbe93ed00\AndroidManifest.xml:22:18-86
+		ADDED from [androidx.core:core:1.0.1] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\eba93514184879a1e9f2a6ffb5c7477a\AndroidManifest.xml:22:18-86
 	android:label
-		ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:17:9-40
+		ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:17:9-40
 	android:icon
-		ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:16:9-38
+		ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:16:9-38
 	android:theme
-		ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:18:9-65
+		ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:18:9-65
 	android:name
-		ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:15:9-36
+		ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:15:9-36
+activity#android_serialport_api.Help.HelpMain
+ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:19:9-82
+	android:name
+		ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:19:19-70
+activity#android_serialport_api.Help.AppOperatePDF
+ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:20:9-78
+	android:name
+		ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:20:19-75
+activity#android_serialport_api.Help.StandardSamplingPDF
+ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:21:9-84
+	android:name
+		ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:21:19-81
+activity#android_serialport_api.sample.SampleFinishActivity
+ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:22:9-58
+	android:name
+		ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:22:19-55
 activity#android_serialport_api.sample.SampleActivity
-ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:19:9-61
+ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:23:9-52
 	android:name
-		ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:19:19-49
+		ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:23:19-49
 service#android_serialport_api.RunningService
-ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:21:9-73
+ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:25:9-73
 	android:name
-		ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:21:18-70
+		ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:25:18-70
 receiver#android_serialport_api.AlarmReceiver
-ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:23:9-73
+ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:27:9-73
 	android:name
-		ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:23:19-70
+		ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:27:19-70
 activity#android_serialport_api.Login.Login_Refresh
-ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:25:9-88
+ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:29:9-79
 	android:name
-		ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:25:19-76
+		ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:29:19-76
 activity#android_serialport_api.Search.ShowLocalSpectrum
-ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:26:9-84
+ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:30:9-84
 	android:name
-		ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:26:19-81
+		ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:30:19-81
 activity#android_serialport_api.Search.SearchLocal
-ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:27:9-78
+ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:31:9-78
 	android:name
-		ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:27:19-75
+		ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:31:19-75
 activity#android_serialport_api.Search.SearchMain
-ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:28:9-77
+ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:32:9-77
 	android:name
-		ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:28:19-74
+		ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:32:19-74
 activity#android_serialport_api.sample.Detection_Finish
-ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:29:9-54
+ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:33:9-54
 	android:name
-		ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:29:19-51
+		ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:33:19-51
 activity#android_serialport_api.Search.SearchSample
-ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:30:9-79
+ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:34:9-79
 	android:name
-		ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:30:19-76
+		ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:34:19-76
 activity#android_serialport_api.sample.MainMenu
-ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:31:9-33:47
+ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:35:9-37:47
 	android:label
-		ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:33:13-44
+		ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:37:13-44
 	android:name
-		ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:32:13-37
+		ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:36:13-37
 activity#android_serialport_api.sample.SerialPortPreferences
-ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:34:9-59
+ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:38:9-59
 	android:name
-		ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:34:19-56
+		ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:38:19-56
 activity#android_serialport_api.sample.ConsoleActivity
-ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:35:9-53
+ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:39:9-53
 	android:name
-		ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:35:19-50
+		ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:39:19-50
 activity#android_serialport_api.sample.LoopbackActivity
-ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:36:9-54
+ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:40:9-54
 	android:name
-		ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:36:19-51
+		ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:40:19-51
 activity#android_serialport_api.sample.Sending01010101Activity
-ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:37:9-61
+ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:41:9-61
 	android:name
-		ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:37:19-58
+		ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:41:19-58
 activity#android_serialport_api.Search.ShowSampleSpectrum
-ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:38:9-85
+ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:42:9-85
 	android:name
-		ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:38:19-82
+		ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:42:19-82
 activity#android_serialport_api.Login.Login
-ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:39:9-45:20
+ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:43:9-49:20
 	android:name
-		ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:39:19-68
+		ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:43:19-68
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:40:13-44:29
+ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:44:13-48:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:41:17-69
+ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:45:17-69
 	android:name
-		ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:41:25-66
+		ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:45:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:43:17-77
+ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:47:17-77
 	android:name
-		ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:43:27-74
+		ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml:47:27-74
 uses-sdk
-INJECTED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml
-MERGED from [com.google.android.material:material:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\aa6ef79141d637cf8a58ed155aebd021\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\aa6ef79141d637cf8a58ed155aebd021\AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.2.aar\616ba9cabbae72ef8ec19f1bb13299b0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.2.aar\616ba9cabbae72ef8ec19f1bb13299b0\AndroidManifest.xml:20:5-44
-MERGED from [:MPChartLib] C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\MPChartLib\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-18:41
-MERGED from [:MPChartLib] C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\MPChartLib\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-18:41
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\1bc47209fa5a00bad8bf6de2488b2403\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\1bc47209fa5a00bad8bf6de2488b2403\AndroidManifest.xml:5:5-7:41
-MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.8.0.aar\2e30ca0681f519963891d7ec95ba478f\AndroidManifest.xml:6:5-8:41
-MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.8.0.aar\2e30ca0681f519963891d7ec95ba478f\AndroidManifest.xml:6:5-8:41
-MERGED from [com.github.hotchemi:permissionsdispatcher:3.1.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\jetified-permissionsdispatcher-3.1.0.aar\37f2af7895ee1a99b0efdb59a6dc604f\AndroidManifest.xml:6:5-8:41
-MERGED from [com.github.hotchemi:permissionsdispatcher:3.1.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\jetified-permissionsdispatcher-3.1.0.aar\37f2af7895ee1a99b0efdb59a6dc604f\AndroidManifest.xml:6:5-8:41
-MERGED from [com.daimajia.numberprogressbar:library:1.4] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\library-1.4.aar\a7adbc8a3b981a7329825cb31505f46f\AndroidManifest.xml:7:5-9:41
-MERGED from [com.daimajia.numberprogressbar:library:1.4] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\library-1.4.aar\a7adbc8a3b981a7329825cb31505f46f\AndroidManifest.xml:7:5-9:41
-MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\326fd424af84841314b2070dcc2f9a86\AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\326fd424af84841314b2070dcc2f9a86\AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\cdeb8a94222ce93782b19737e3b12c19\AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\cdeb8a94222ce93782b19737e3b12c19\AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\194d0d87a9348ef854d865d72748a936\AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\194d0d87a9348ef854d865d72748a936\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\786801b7d4365fc0e7a9eff6c89900ff\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\786801b7d4365fc0e7a9eff6c89900ff\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\3457a6ce280d49e0d7989dd2965b2a50\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\3457a6ce280d49e0d7989dd2965b2a50\AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\e7bee70a5da9f1401c87ac280d4da2ff\AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\e7bee70a5da9f1401c87ac280d4da2ff\AndroidManifest.xml:20:5-44
-MERGED from [androidx.transition:transition:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\58aa92447cff21131410d306f6509ffa\AndroidManifest.xml:20:5-44
-MERGED from [androidx.transition:transition:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\58aa92447cff21131410d306f6509ffa\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\71ad1001d25364249616dda103e15904\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\71ad1001d25364249616dda103e15904\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\a1d13d3defe67e41df1cb8f9db78aef5\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\a1d13d3defe67e41df1cb8f9db78aef5\AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\72281af6a4de3424208868d31c51acb3\AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\72281af6a4de3424208868d31c51acb3\AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\8a969cad53e00d2c6c93df1069ebeb5c\AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\8a969cad53e00d2c6c93df1069ebeb5c\AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\cd5a344f5ba70f9c049f9963e827b47f\AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\cd5a344f5ba70f9c049f9963e827b47f\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\f331aa77c8ce9f788dc2ab7e50bef64c\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\f331aa77c8ce9f788dc2ab7e50bef64c\AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\a8367dae9489cee8dfd04311575fb786\AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\a8367dae9489cee8dfd04311575fb786\AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\1ee05918786e0e7be83e3ce5869cba16\AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\1ee05918786e0e7be83e3ce5869cba16\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.0.1] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\e8060ebdb6f33a1a3328542fbe93ed00\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.0.1] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\e8060ebdb6f33a1a3328542fbe93ed00\AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\acc469cb09f140a0be00f46f7caf87e6\AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\acc469cb09f140a0be00f46f7caf87e6\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\388d09dc1aebdddcecf229fd571a3801\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\388d09dc1aebdddcecf229fd571a3801\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\655b65645f49b296be9587da9d2ff02b\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\655b65645f49b296be9587da9d2ff02b\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\8e8dfd20bb065380319f445aa2f42a05\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\8e8dfd20bb065380319f445aa2f42a05\AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\4a4ef278db506162ed5dc89bdb0c1624\AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\4a4ef278db506162ed5dc89bdb0c1624\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\a680128170188254d60310d262bd85de\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\a680128170188254d60310d262bd85de\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\661238e83728b7cddcc4f5c3a431baff\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\661238e83728b7cddcc4f5c3a431baff\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\f290c70911f69e173139b5d2ae9d3c2b\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\f290c70911f69e173139b5d2ae9d3c2b\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\6f8a01e044fc2ad664a19f91564b76f7\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\6f8a01e044fc2ad664a19f91564b76f7\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\47c0f4bfb8238f7d68dbd0e1958110ea\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\47c0f4bfb8238f7d68dbd0e1958110ea\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\1cc5bd76cbdc04ea5692015ab8b37ab2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\1cc5bd76cbdc04ea5692015ab8b37ab2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\1216842deab317a126f038da77a66398\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\1216842deab317a126f038da77a66398\AndroidManifest.xml:20:5-44
-MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\jetified-gifdecoder-4.8.0.aar\65f2e7c2d25e65cd1c3049a7a599668a\AndroidManifest.xml:5:5-7:41
-MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\gayr\.gradle\caches\transforms-1\files-1.1\jetified-gifdecoder-4.8.0.aar\65f2e7c2d25e65cd1c3049a7a599668a\AndroidManifest.xml:5:5-7:41
-INJECTED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml
+INJECTED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml
+INJECTED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\d1af8a967e4a52f7ede8bc8534ce35e1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\d1af8a967e4a52f7ede8bc8534ce35e1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.2.aar\b2ab31ebfee1999e7696aafff3c1e85e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.2.aar\b2ab31ebfee1999e7696aafff3c1e85e\AndroidManifest.xml:20:5-44
+MERGED from [:MPChartLib] D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\MPChartLib\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-18:41
+MERGED from [:MPChartLib] D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\MPChartLib\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-18:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\8dc9b79ec8b86e97f01449690cd03cd5\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\8dc9b79ec8b86e97f01449690cd03cd5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.8.0.aar\549d087eb8f4a8491a5051f6159fa859\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.8.0.aar\549d087eb8f4a8491a5051f6159fa859\AndroidManifest.xml:6:5-8:41
+MERGED from [com.daimajia.numberprogressbar:library:1.4] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\library-1.4.aar\be82078a42647ddf310887c3e2e2dc3a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.daimajia.numberprogressbar:library:1.4] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\library-1.4.aar\be82078a42647ddf310887c3e2e2dc3a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.hotchemi:permissionsdispatcher:3.1.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\jetified-permissionsdispatcher-3.1.0.aar\56b5a4bf0e434730ef72a0fe0d179596\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.hotchemi:permissionsdispatcher:3.1.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\jetified-permissionsdispatcher-3.1.0.aar\56b5a4bf0e434730ef72a0fe0d179596\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.barteksc:android-pdf-viewer:2.8.2] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\jetified-android-pdf-viewer-2.8.2.aar\5e26418bcd38297df9c90992fd3726ed\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:android-pdf-viewer:2.8.2] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\jetified-android-pdf-viewer-2.8.2.aar\5e26418bcd38297df9c90992fd3726ed\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:pdfium-android:1.7.1] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\jetified-pdfium-android-1.7.1.aar\8d26b74a4efae8c102b375f727155e94\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:pdfium-android:1.7.1] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\jetified-pdfium-android-1.7.1.aar\8d26b74a4efae8c102b375f727155e94\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\0773c5cddf0c5ef38adca64ea419d29f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\0773c5cddf0c5ef38adca64ea419d29f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\18a1fe0ec578547b5027fb4876b1e9a5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\18a1fe0ec578547b5027fb4876b1e9a5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\f99fe210aa5102a8e8b13335707bb330\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\f99fe210aa5102a8e8b13335707bb330\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\d1a2b94072f9e4904a4bfa2a71e17b3f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\d1a2b94072f9e4904a4bfa2a71e17b3f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\a24d6efe80f24dc4c68a5fc672c306bb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\a24d6efe80f24dc4c68a5fc672c306bb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\d10bc245f82b1dfda053ea859352428d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\d10bc245f82b1dfda053ea859352428d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\455eea5022386c3aaebeb88af89c449f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\455eea5022386c3aaebeb88af89c449f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\215e549516231496a63069029f31b799\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\215e549516231496a63069029f31b799\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\ff4f6ea6f0f93811b32df69aab2c2cce\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\ff4f6ea6f0f93811b32df69aab2c2cce\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\2d9dd2eca793add3b9a9dd03505ba71a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\2d9dd2eca793add3b9a9dd03505ba71a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\90d61cb5c5a0fb1b4599645db287fa72\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\90d61cb5c5a0fb1b4599645db287fa72\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\cd6dbfd806c0179fa33d0493c1c7cc2b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\cd6dbfd806c0179fa33d0493c1c7cc2b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\ac24253291899dcc6d032983821e2008\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\ac24253291899dcc6d032983821e2008\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\d96478440bf1870b1daa6937aa08e982\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\d96478440bf1870b1daa6937aa08e982\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\90cc701acbdcb50318f37d9ebb46a54c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\90cc701acbdcb50318f37d9ebb46a54c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\d404450442291ef705ae74560551e539\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\d404450442291ef705ae74560551e539\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\026db3eb296685d7218281f008a0592a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\026db3eb296685d7218281f008a0592a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\eba93514184879a1e9f2a6ffb5c7477a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\eba93514184879a1e9f2a6ffb5c7477a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\be87881899e7776a33921577a0443266\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\be87881899e7776a33921577a0443266\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\e1d8235b0341c00f8eedd91e1560c725\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\e1d8235b0341c00f8eedd91e1560c725\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\ac4e1efaf57a55cb51b9505fe38ffa4f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\ac4e1efaf57a55cb51b9505fe38ffa4f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\91d778a805b0f20a3021b640a9cf8ba1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\91d778a805b0f20a3021b640a9cf8ba1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\8de084d10a4be4c51467ddee1fec4617\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\8de084d10a4be4c51467ddee1fec4617\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\bf49ea25edb046acef90d5926a408e97\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\bf49ea25edb046acef90d5926a408e97\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\856c2cf1053da1016410e9d13f6d987f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\856c2cf1053da1016410e9d13f6d987f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\1735914a5f170d4e939d957ad6862992\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\1735914a5f170d4e939d957ad6862992\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\2aa75fa97036a4f54e0b143bf75a5616\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\2aa75fa97036a4f54e0b143bf75a5616\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\23f59ec2d7b31b808f4a6c1e32628f66\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\23f59ec2d7b31b808f4a6c1e32628f66\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\81e3bcbd1d37b89078be2e3fdf5e7a33\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\81e3bcbd1d37b89078be2e3fdf5e7a33\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\64d43cca0fc2905cac25d0bbff03ecb8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\64d43cca0fc2905cac25d0bbff03ecb8\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\jetified-gifdecoder-4.8.0.aar\3a4ce96337c0190825e627f105c5add5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Gary\.gradle\caches\transforms-1\files-1.1\jetified-gifdecoder-4.8.0.aar\3a4ce96337c0190825e627f105c5add5\AndroidManifest.xml:5:5-7:41
+INJECTED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml
+INJECTED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml
+		INJECTED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml
+		ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml
+		INJECTED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\gayr\Desktop\NIR0306\0322\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml
+		INJECTED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml
+		ADDED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml
+		INJECTED from D:\project\0322-5inch\serialport_2019.01.13\serialport_2019.01.13\serialport_2019.01.13\app\src\main\AndroidManifest.xml

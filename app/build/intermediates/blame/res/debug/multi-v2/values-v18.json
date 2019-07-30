@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\gayr\\Desktop\\NIR0306\\0322\\serialport_2019.01.13\\serialport_2019.01.13\\serialport_2019.01.13\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
+            "outputFile": "D:\\project\\0322-5inch\\serialport_2019.01.13\\serialport_2019.01.13\\serialport_2019.01.13\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\gayr\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.2.aar\\616ba9cabbae72ef8ec19f1bb13299b0\\res\\values-v18\\values-v18.xml",
+                    "source": "C:\\Users\\Gary\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.2.aar\\b2ab31ebfee1999e7696aafff3c1e85e\\res\\values-v18\\values-v18.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

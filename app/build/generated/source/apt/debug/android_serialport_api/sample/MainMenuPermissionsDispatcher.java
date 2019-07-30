@@ -6,11 +6,11 @@ import java.lang.String;
 import permissions.dispatcher.PermissionUtils;
 
 final class MainMenuPermissionsDispatcher {
-  private static final int REQUEST_NEEDSPERMISSON = 0;
+  private static final int REQUEST_NEEDSPERMISSON = 1;
 
   private static final String[] PERMISSION_NEEDSPERMISSON = new String[] {"android.permission.READ_EXTERNAL_STORAGE","android.permission.WRITE_EXTERNAL_STORAGE"};
 
-  private static final int REQUEST_TESTNEEDSPERMISSION = 1;
+  private static final int REQUEST_TESTNEEDSPERMISSION = 2;
 
   private static final String[] PERMISSION_TESTNEEDSPERMISSION = new String[] {"android.permission.ACCESS_FINE_LOCATION","android.permission.ACCESS_COARSE_LOCATION"};
 

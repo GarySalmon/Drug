@@ -1,4 +1,4 @@
-#Wed Mar 27 14:45:06 CST 2019
-base.0=C\:\\Users\\gayr\\Desktop\\NIR0306\\0322\\serialport_2019.01.13\\serialport_2019.01.13\\serialport_2019.01.13\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+#Tue Jul 23 22:51:08 CST 2019
+base.0=D\:\\project\\0322-5inch\\serialport_2019.01.13\\serialport_2019.01.13\\serialport_2019.01.13\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
 path.0=classes.dex
 renamed.0=classes.dex

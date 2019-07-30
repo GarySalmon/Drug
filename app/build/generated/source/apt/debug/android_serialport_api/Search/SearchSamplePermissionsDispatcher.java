@@ -9,7 +9,7 @@ import permissions.dispatcher.PermissionRequest;
 import permissions.dispatcher.PermissionUtils;
 
 final class SearchSamplePermissionsDispatcher {
-  private static final int REQUEST_GETPERMISSION = 2;
+  private static final int REQUEST_GETPERMISSION = 3;
 
   private static final String[] PERMISSION_GETPERMISSION = new String[] {"android.permission.READ_EXTERNAL_STORAGE","android.permission.WRITE_EXTERNAL_STORAGE"};
 

@@ -1,16 +1,33 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\gayr\\Desktop\\NIR0306\\0322\\serialport_2019.01.13\\serialport_2019.01.13\\serialport_2019.01.13\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
+            "outputFile": "D:\\project\\0322-5inch\\serialport_2019.01.13\\serialport_2019.01.13\\serialport_2019.01.13\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\gayr\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.2.aar\\616ba9cabbae72ef8ec19f1bb13299b0\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\Gary\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.2.aar\\b2ab31ebfee1999e7696aafff3c1e85e\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
                         "startOffsets": "55,212",
                         "endColumns": "156,134",
                         "endOffsets": "207,342"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Gary\\.gradle\\caches\\transforms-1\\files-1.1\\media-1.0.0.aar\\026db3eb296685d7218281f008a0592a\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,121,182,248",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "116,177,243,310"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "347,413,474,540",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "408,469,535,602"
                     }
                 }
             ]
